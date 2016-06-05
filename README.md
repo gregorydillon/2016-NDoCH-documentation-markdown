@@ -140,6 +140,7 @@ On Github, you can also link to headers in the same document using `#`
 
 ![Cat](http://placekitten.com/g/200/300)
 ![Another cat](http://placekitten.com/g/300/300 "The other cat")
+![screenshot](https://github.com/gregorydillon/2016-NDoCH-documentation-markdown/blob/master/Screenshot%202016-06-05%20at%2014.43.41.png)
 
 Like links, Images also have a footnote style syntax
 
